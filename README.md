@@ -58,3 +58,7 @@ DELETE /api/thoughts/
 License
 This project is licensed under the MIT License.
 
+
+https://www.loom.com/share/621c771af29b44549bfdb27058a60f5a?sid=bdec8f54-f37b-4481-8f25-7bb92f58dd6a
+
+
